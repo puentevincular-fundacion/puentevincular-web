@@ -7,6 +7,7 @@ import HowToHelp from './components/HowToHelp';
 import Donations from './components/Donations';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Events from './components/Events';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <HowToHelp />
       <Donations />
       <Contact />
+      <Events />
       <Footer />
     </div>
   );
